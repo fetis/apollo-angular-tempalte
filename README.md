@@ -2,4 +2,4 @@
 
 - Angular CLI
 - Apollo Angular client
-- StarWars test server
+- Demo API call from https://api.spacex.land/graphql/
